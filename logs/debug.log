@@ -1,0 +1,32 @@
+2025-11-03 12:57:29 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 12:57:32 Dokan Delivery AJAX: load_tab called tab=earnings user_id=11
+2025-11-03 12:57:36 Dokan Delivery AJAX: load_tab called tab=profile user_id=11
+2025-11-03 12:57:42 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 12:58:16 Dokan Delivery AJAX: load_tab called tab=orders user_id=11
+2025-11-03 12:58:19 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 12:58:20 Dokan Delivery AJAX: load_tab called tab=earnings user_id=11
+2025-11-03 12:58:20 Dokan Delivery AJAX: load_tab called tab=profile user_id=11
+2025-11-03 12:58:25 Dokan Delivery AJAX: load_tab called tab=earnings user_id=11
+2025-11-03 12:58:29 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 12:58:49 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:00:08 Dokan Delivery: created delivery_order id=1 for WC order 1358 -> delivery_company_id=2, vendor_id=3, shipping_cost=0
+2025-11-03 13:00:08 Dokan Delivery: FAILED to create delivery_order for WC order 1358 (delivery_company_id=2, vendor_id=3). shipping_cost=0. wpdb->last_error=Duplicate entry '1358' for key 'wp_dokan_delivery_orders.order_id'
+2025-11-03 13:00:28 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:00:39 Dokan Delivery AJAX: load_tab called tab=orders user_id=11
+2025-11-03 13:00:50 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:00:51 Dokan Delivery AJAX: load_tab called tab=earnings user_id=11
+2025-11-03 13:00:55 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:00:56 Dokan Delivery AJAX: load_tab called tab=orders user_id=11
+2025-11-03 13:00:58 Dokan Delivery AJAX: load_tab called tab=profile user_id=11
+2025-11-03 13:00:59 Dokan Delivery AJAX: load_tab called tab=earnings user_id=11
+2025-11-03 13:01:07 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:01:09 Dokan Delivery AJAX: load_tab called tab=orders user_id=11
+2025-11-03 13:03:02 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:03:04 Dokan Delivery AJAX: load_tab called tab=profile user_id=11
+2025-11-03 13:03:30 Dokan Delivery AJAX: load_tab called tab=earnings user_id=11
+2025-11-03 13:03:30 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:05:39 Dokan Delivery AJAX: load_tab called tab=orders user_id=11
+2025-11-03 13:06:08 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
+2025-11-03 13:06:10 Dokan Delivery AJAX: load_tab called tab=orders user_id=11
+2025-11-03 13:06:16 Dokan Delivery AJAX: load_tab called tab=orders user_id=11
+2025-11-03 13:07:51 Dokan Delivery AJAX: load_tab called tab=shipping-zones user_id=11
